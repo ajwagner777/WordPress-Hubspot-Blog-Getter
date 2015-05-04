@@ -6,3 +6,6 @@ Gets blogs from the Hubspot API for display on a WordPress Site
 
 First parameter is your API key from HubSpot
 Second parameter is the limit
+
+## To-do's
+Need to add default values along with an offset
